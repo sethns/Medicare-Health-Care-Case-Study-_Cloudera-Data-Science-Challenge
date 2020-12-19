@@ -12,6 +12,7 @@ Part 1A: Highest Cost Variation
 Parts 1B: Highest-Cost Claims by Provider  
 Parts 1C: Highest-Cost Claims by Region 
 Part 1D: Highest Number of Procedures and Largest Differences between Claims and  Reimbursements 
+
 Part 2: Identify the three providers that are least similar to other providers and the three  regions that are least similar to other regions.  
 Part 2A: Providers Least Like Others  
 Part 2B: Regions Least Like Others 
@@ -30,5 +31,7 @@ Part 3 of the Challenge required patient demographic information and patient-pro
 ⮚ Rreview_transaction_coo.csv 
 ⮚ Transaction_coo.csv 
 
-Expectations from the trainees: 
-Trainees should be able to import the data into statistical softwares and perform a variety of data  preprocessing, analysis, and visualization using different techniques. 
+Expectations: 
+Import the data into statistical softwares and perform a variety of data  preprocessing, analysis, and visualization using different techniques. 
+
+Note: Part 3 not performed as the data wasn't available.
